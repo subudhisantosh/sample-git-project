@@ -3,7 +3,7 @@ package Sample.gitExamples;
 
 public class AppTest {
 	
-	
+	//comment
 		
 		private int num;
 		private String name;
